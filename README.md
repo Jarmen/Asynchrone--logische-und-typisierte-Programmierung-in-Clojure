@@ -1,2 +1,2 @@
-Clojure-Bridge-for-APache-Spark
+Clojure-Bridge-for-Apache-Spark
 ===============================
