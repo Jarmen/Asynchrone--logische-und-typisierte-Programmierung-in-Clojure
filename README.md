@@ -1,2 +1,2 @@
-Clojure-Bridge-to-Apache-Spark
+Asynchrone, logische und typisierte Programmierung in Clojure
 ===============================
